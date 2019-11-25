@@ -290,6 +290,7 @@ label {
 
 .page-title {
   margin-bottom: 75px;
+  margin-top: 75px;
 }
 .page-title img {
   margin-bottom: 20px;
@@ -380,7 +381,7 @@ label {
   vertical-align: middle;
 }
 .page-home .overlay {
-  background-color: rgba(255, 255, 255, 0.93);
+  background-color: rgba(255, 255, 255, 0.63);
 }
 
 /* End of container */
@@ -583,6 +584,7 @@ label {
   height: -webkit-calc(100vh - 4px);
   height: -moz-calc(100vh - 4px);
   height: calc(100vh - 4px);
+  border-radius: 50% !important;
 }
 
 /*------------------------------------------------
@@ -1486,6 +1488,7 @@ label {
   }
   .page-title {
     margin-bottom: 45px;
+    margin-top: 45px;
   }
   .page-title h2 {
     font-size: 35px;
